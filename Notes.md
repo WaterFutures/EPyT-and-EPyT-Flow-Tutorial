@@ -21,11 +21,14 @@
   - Contaminations
   - Sensor faults
   - Actuator fault
+- How to use the dataset
 
-## Hydraulic & Quality Demonstrations
+## Algorithms - Hydraulic & Quality Demonstrations
+- Machine learning example 
+  - Leakage detection
+  - Quality state estimation
 - Optimization (sensor placement)
 - Fault diagnosis
-- Machine learning
 - Explainability
 - Isolation
 - DBP contamination modelling
@@ -35,3 +38,4 @@
 - Time series forecasting
 - Surrogate modelling for network simulation
 - Tutorial: Using RL for XXX
+
