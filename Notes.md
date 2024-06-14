@@ -5,6 +5,8 @@
 - Basic Python knowledge
 - Benchmarking (Models, Dataset) Water Benchmark Hub
 - EPyT for EMT Users (e.g. Spyder)
+- Open science and Open Datasets
+- WF Benchmark hub
 
 ## Basic EPYT Usage (MSK)
 - Paper JOSS
