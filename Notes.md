@@ -16,28 +16,29 @@
 - From Matlab EMT to Python EPyT using ChatGPT
 
 ## EPYT-Flow Usage (Andre and Stelios)
-- How to use EPYT-FLOW
-- Monte Carlo simulations/Intervals
-- Generation of datasets with events (hydraulics, quality)
-  - Leakages
-  - Contaminations
-  - Sensor faults
-  - Actuator fault
-- How to use the dataset
+- How to use EPYT-FLOW+
+- Monte Carlo simulations/Intervals+
+- Generation of datasets with events (hydraulics, quality)+
+  - Leakages+
+  - Contaminations+
+  - Sensor faults+
+  - Actuator fault+
+- How to use the datasets+
 
 ## Algorithms - Hydraulic & Quality Demonstrations
-- Machine learning example 
-  - Leakage detection
-  - Quality state estimation
-- Optimization (sensor placement)
-- Fault diagnosis
+- Machine learning example+ 
+  - Leakage detection+
+  - Quality state estimation+
+- Optimization (pressure/quality sensor placement)+
+- Fault diagnosis++
+- DBP contamination modelling ++ (based on Pavlo's paper for intodbp)
+- Disinfection control ++ (ask sriman)
+- Surrogate modelling for network simulation ++ (inam)
+
 - Explainability
 - Isolation
-- DBP contamination modelling
 - Emergency response/manual sampling
-- Disinfection control
 - State estimation
 - Time series forecasting
-- Surrogate modelling for network simulation
 - Tutorial: Using RL for XXX
 
