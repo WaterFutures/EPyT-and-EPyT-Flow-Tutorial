@@ -1,18 +1,12 @@
 # EPyT and EPyT-Flow Tutorial
 
-====================================================
-
 ## Notebooks
-
----
 
 ### Introduction
 
 
 
 ## Presentation
-
----
 
 ### Introduction (DE)
 - Why EPyT and not WNTR?
