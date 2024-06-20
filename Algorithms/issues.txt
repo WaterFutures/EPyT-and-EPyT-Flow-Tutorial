@@ -1,0 +1,17 @@
+Leakage Simulation and Detection
+cell 8: Negative pressures warnings
+cell 21: Problem with plot (shows 2 different graphs)
+ 
+Pressure Sensor Placement
+cell 11: Works fine in independed python file. Errors in jupyter server
+cell 14: SolveEnum2GA function
+ 
+Contamination modelling and detection
+getComputedQualityNode() is wrong 
+Cant check the plots because of the above function
+ 
+Quality sensor placement
+missing GA multi-objective (didnt work on it yet)
+ 
+Run First MSX Analysis
+missing function plotMSXSpeciesNodeConcentration()
