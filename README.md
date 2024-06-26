@@ -35,7 +35,8 @@
 - Machine learning example
   - [Leakage detection](epytflow_leakagedetection.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epytflow_leakagedetection.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   - [Quality state estimation](epytflow_quality.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epytflow_quality.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-- Optimization (pressure/quality sensor placement)+
+- Optimization
+  - [Pressure sensor placement](epyt_pressure_sensor_placement.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_pressure_sensor_placement.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - Fault diagnosis++
 - DBP contamination modelling ++
 - Disinfection control ++
@@ -43,6 +44,7 @@
 
 - Explainability
 - Isolation
+- Quality sensor placement
 - Emergency response/manual sampling
 - State estimation
 - Time series forecasting
