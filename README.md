@@ -3,14 +3,6 @@
 ## Presentation
 [Tutorial Presentation](https://ucy.sharepoint.com/:p:/s/WaterFutures/EVTYYT3xirdIhRLae_L3rsUBS1Ez-jEl0D_6R-PrnChveQ?e=dVxMez)
 
-## Notebooks
-
-### Introduction
-
-
-
-## Presentation
-
 ### Introduction (DE)
 - Why EPyT and not WNTR?
 - Basic Python knowledge
