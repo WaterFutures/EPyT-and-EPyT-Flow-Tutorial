@@ -37,9 +37,9 @@
   - [Quality state estimation](epytflow_quality.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epytflow_quality.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - Optimization (pressure/quality sensor placement)+
 - Fault diagnosis++
-- DBP contamination modelling ++ (based on Pavlo's paper for intodbp)
-- Disinfection control ++ (ask sriman)
-- Surrogate modelling for network simulation ++ (inam)
+- DBP contamination modelling ++
+- Disinfection control ++
+- Surrogate modelling for network simulation ++
 
 - Explainability
 - Isolation
