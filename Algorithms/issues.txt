@@ -1,6 +1,0 @@
-Pressure Sensor Placement
-cell 11: Works fine in independed python file. Errors in jupyter server
-cell 14: SolveEnum2GA function
- 
-Quality sensor placement
-missing GA multi-objective (didnt work on it yet)
