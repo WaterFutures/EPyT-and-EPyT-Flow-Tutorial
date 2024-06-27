@@ -1,7 +1,7 @@
 # EPyT and EPyT-Flow Tutorial
 
-## Presentation
-[Tutorial Presentation](https://ucy-my.sharepoint.com/:f:/g/personal/mkiria01_ucy_ac_cy/Ej0n6JKNmY1KpDv7EYEVtmcB1uWLfCQO9Cnk5v8Jjt6IHw?e=E18hgz)
+## Tutorial presentation slides 
+[Tutorial presentation slides](https://ucy-my.sharepoint.com/:f:/g/personal/mkiria01_ucy_ac_cy/Ej0n6JKNmY1KpDv7EYEVtmcB1uWLfCQO9Cnk5v8Jjt6IHw?e=E18hgz)
 
 ### Tutorial outline
 - Logistics
@@ -34,9 +34,9 @@
 - [Basic Python knowledge (JUPYTER NOTEBOOK on Colab)](PythonCrashCourse/Python101.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/PythonCrashCourse/Python101.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### EPANET-Python Toolkit (EPyT) Tutorial
-- Examples from [JOSS paper](https://joss.theoj.org/papers/10.21105/joss.05947)
-  - [Simple](epyt_joss_simple_example.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_joss_simple_example.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-  - [Advanced](epyt_joss_advance_example.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_joss_advance_example.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
+- EPyT [JOSS paper](https://joss.theoj.org/papers/10.21105/joss.05947)
+  - [Simple example](epyt_joss_simple_example.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_joss_simple_example.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  - [Advanced example](epyt_joss_advance_example.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_joss_advance_example.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - Smart Water Systems algorithms
   - [Pressure sensor placement](epyt_pressure_sensor_placement.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_pressure_sensor_placement.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   - [Leakage simulation and detection](epyt_leakage_simulation_and_detection.ipynb)  <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_leakage_simulation_and_detection.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
