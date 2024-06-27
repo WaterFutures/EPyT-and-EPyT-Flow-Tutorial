@@ -35,7 +35,9 @@
 - Demo on Collab
 
 ### EPANET-Python Toolkit (EPyT) Tutorial (MSK+Stelios)
-- JOSS Examples
+- Examples from [JOSS paper](https://joss.theoj.org/papers/10.21105/joss.05947)
+  - [Simple](epyt_joss_simple_example.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_joss_simple_example.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  - [Advanced](epyt_joss_advance_example.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_joss_advance_example.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>  
 - Smart Water Systems algorithms
   - [Pressure sensor placement](epyt_pressure_sensor_placement.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_pressure_sensor_placement.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
   - [Leakage simulation and detection](epyt_leakage_simulation_and_detection.ipynb)  <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_leakage_simulation_and_detection.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
