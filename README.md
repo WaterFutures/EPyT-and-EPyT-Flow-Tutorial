@@ -31,7 +31,7 @@
 
 ### Short introduction to Python (interactive) - Andre and MSK
 - Python for MATLAB users (MATLAB & SPYDER)
-- Basic Python knowledge (JUPITER NOTEBOOK)
+- [Basic Python knowledge (JUPITER NOTEBOOK)](PythonCrashCourse/Python101.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/PythonCrashCourse/Python101.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - Demo on Collab
 
 ### EPANET-Python Toolkit (EPyT) Tutorial (MSK+Stelios)
