@@ -5,23 +5,23 @@
 
 ### Tutorial outline -DE
 - Logistics
--- internet
--- link to github/collab
--- clone vs collab
+  - internet
+  - link to github/collab
+  - clone vs collab
 - Introduce ourselves
 - Who's who
--- Level of education
--- Experience with EPANET
--- Experinece with the EMT
--- Experience with Python
--- Why are you here?
+  - Level of education
+  - Experience with EPANET
+  - Experinece with the EMT
+  - Experience with Python
+  - Why are you here?
 - What is WaterFutures, introduce KIOS and BU
 - WF Benchmark hub (models, open science, benchmarks)
 - Structure of the course:
--- History of EPANET and EPyT
--- Short introduction to Python
--- EPANET-Python Toolkit (EPyT) Tutorial and advanced algorithms
--- EPyT-Flow for machine learning
+  - History of EPANET and EPyT
+  - Short introduction to Python
+  - EPANET-Python Toolkit (EPyT) Tutorial and advanced algorithms
+  - EPyT-Flow for machine learning
 
 ### History of EPANET and EPyT (motivational) -DE
 - Why EPyT and not WNTR?
