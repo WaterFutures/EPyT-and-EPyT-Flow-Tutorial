@@ -1,7 +1,7 @@
 # EPyT and EPyT-Flow Tutorial
 
 ## Presentation
-[Tutorial Presentation]([https://ucy.sharepoint.com/:p:/s/WaterFutures/EVTYYT3xirdIhRLae_L3rsUBS1Ez-jEl0D_6R-PrnChveQ?e=dVxMez](https://ucy-my.sharepoint.com/:p:/r/personal/mkiria01_ucy_ac_cy/_layouts/15/Doc.aspx?sourcedoc=%7B177D3EDA-7414-41BE-AB90-E69B5F84538B%7D&file=EPyT-and-EPyT-Flow-Tutorial.pptx&action=edit&mobileredirect=true&wdsle=0))
+[Tutorial Presentation](https://ucy.sharepoint.com/:p:/s/WaterFutures/EVTYYT3xirdIhRLae_L3rsUBS1Ez-jEl0D_6R-PrnChveQ?e=dVxMez](https://ucy-my.sharepoint.com/:p:/r/personal/mkiria01_ucy_ac_cy/_layouts/15/Doc.aspx?sourcedoc=%7B177D3EDA-7414-41BE-AB90-E69B5F84538B%7D&file=EPyT-and-EPyT-Flow-Tutorial.pptx&action=edit&mobileredirect=true&wdsle=0))
 
 ### Introduction (DE)
 - Why EPyT and not WNTR?
