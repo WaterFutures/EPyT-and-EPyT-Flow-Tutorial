@@ -29,14 +29,14 @@
   - [Quality state estimation](epytflow_quality.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epytflow_quality.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - Optimization
   - [Pressure sensor placement](epyt_pressure_sensor_placement.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_pressure_sensor_placement.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  - [Quality sensor placement](epyt_quality_sensor_placement.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_quality_sensor_placement.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+  - [Disinfection control](epyt_optimal_chlorine_dosage_scheduling.ipynb)  <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epyt_optimal_chlorine_dosage_scheduling.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 - Fault diagnosis++
 - DBP contamination modelling ++
-- Disinfection control ++
 - Surrogate modelling for network simulation ++
-
 - Explainability
 - Isolation
-- Quality sensor placement
 - Emergency response/manual sampling
 - State estimation
 - Time series forecasting
