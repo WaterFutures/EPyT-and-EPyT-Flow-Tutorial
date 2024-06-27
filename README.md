@@ -3,7 +3,7 @@
 ## Presentation
 [Tutorial Presentation](https://ucy-my.sharepoint.com/:f:/g/personal/mkiria01_ucy_ac_cy/Ej0n6JKNmY1KpDv7EYEVtmcB1uWLfCQO9Cnk5v8Jjt6IHw?e=E18hgz)
 
-### Part A
+### Tutorial outline -DE
 - Logistics
 -- internet
 -- link to github/collab
@@ -16,21 +16,23 @@
 -- Experience with Python
 -- Why are you here?
 - What is WaterFutures, introduce KIOS and BU
-- WF Benchmark hub
+- WF Benchmark hub (models, open science, benchmarks)
 - Structure of the course:
 -- History of EPANET and EPyT
--- Introductory Python 3.9 Tutorial
+-- Introductory Python Tutorial
 -- EPANET-Python Toolkit (EPyT) Tutorial
 -- EPyT-Flow for advanced simulations
 -- Demonstration of Selected Algorithms
 
-### Introduction (DE)
+### History of EPANET and EPyT (motivational) -DE
 - Why EPyT and not WNTR?
-- Basic Python knowledge
-- Benchmarking (Models, Dataset) Water Benchmark Hub
 - EPyT for EMT Users (e.g. Spyder)
-- Open science and Open Datasets
-- WF Benchmark hub
+- Structure of the EPyT library
+- Why we need EPyT-Flow?
+
+### Short introduction to Python (interactive)
+- Basic Python knowledge
+
 
 ### Basic EPYT Usage (MSK)
 - Paper JOSS
