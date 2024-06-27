@@ -30,9 +30,10 @@
 - Structure of the EPyT library
 - Why we need EPyT-Flow?
 
-### Short introduction to Python (interactive)
-- Basic Python knowledge
-
+### Short introduction to Python (interactive) - 
+- Python for MATLAB users (MATLAB & SPYDER)
+- Basic Python knowledge (JUPITER NOTEBOOK)
+- Demo on Collab
 
 ### Basic EPYT Usage (MSK)
 - Paper JOSS
