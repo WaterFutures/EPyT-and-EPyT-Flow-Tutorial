@@ -20,8 +20,8 @@
 
 ### EPYT-Flow Usage (Andre and Stelios)
 - [How to use EPYT-FLOW](epytflow_intro.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epytflow_intro.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-- [Monte Carlo simulations/Intervals](epytflow_montecarlo.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epytflow_montecarlo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - [Generation of datasets with events (hydraulics, quality) and how to use those datasets](epytflow_datageneration.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epytflow_datageneration.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- [Monte Carlo simulations/Intervals](epytflow_montecarlo.ipynb) <a target="_blank" href="https://colab.research.google.com/github/WaterFutures/EPyT-and-EPyT-Flow-Tutorial/blob/main/epytflow_montecarlo.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Algorithms - Hydraulic & Quality Demonstrations
 - Machine learning example
