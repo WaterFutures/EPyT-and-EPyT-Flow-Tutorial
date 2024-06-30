@@ -1,9 +1,8 @@
 # EPyT and EPyT-Flow Tutorial
 
-## Tutorial presentation 
-[Tutorial presentation slides](https://ucy-my.sharepoint.com/:f:/g/personal/mkiria01_ucy_ac_cy/Ej0n6JKNmY1KpDv7EYEVtmcB1uWLfCQO9Cnk5v8Jjt6IHw?e=E18hgz)
+### [Presentation slides](https://ucy-my.sharepoint.com/:f:/g/personal/mkiria01_ucy_ac_cy/Ej0n6JKNmY1KpDv7EYEVtmcB1uWLfCQO9Cnk5v8Jjt6IHw?e=E18hgz)
 
-### Tutorial outline
+### Outline
 - Logistics
   - internet
   - link to github/collab
